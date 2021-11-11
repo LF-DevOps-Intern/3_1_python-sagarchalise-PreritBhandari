@@ -7,7 +7,7 @@
 3. Execute the below command:
 
    ```
-    **bash first.sh  --url="https://google.com"  --http_server**
+   bash first.sh  --url="https://google.com"  --http_server
    ```
     
    >you can give your own url in url part
