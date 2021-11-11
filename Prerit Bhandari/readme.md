@@ -9,4 +9,4 @@
     
    >you can give your own url in url part
     
- ** "Prerit Project" ** folder will be created where all site informations will be present 
+ **"Prerit Project"** folder will be created where all site informations will be present 
